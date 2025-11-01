@@ -102,7 +102,7 @@ Este projeto foi desenvolvido como parte do desafio da DIO para aplicar conhecim
 
 ## 🚀 Autor
 
-Desenvolvido como parte do desafio da [DIO](https://www.dio.me/).  
+Desenvolvido por Liliane Lima, como parte do desafio da [DIO](https://www.dio.me/).  
 Compartilhado como portfólio técnico no GitHub.
 
 ```
@@ -212,6 +212,6 @@ Este projeto foi desenvolvido como parte do desafio da DIO para aplicar conhecim
 
 ## 🚀 Autor
 
-Desenvolvido como parte do desafio da [DIO](https://www.dio.me/).  
+Desenvolvido por Liliane Lima, como parte do desafio da [DIO](https://www.dio.me/).  
 Compartilhado como portfólio técnico no GitHub.
 
