@@ -107,13 +107,6 @@ Compartilhado como portfólio técnico no GitHub.
 
 ```
 
----
-
-Se quiser, posso te ajudar a personalizar esse README com seus próprios resultados, capturas de tela e links. Quer que eu monte a estrutura de pastas e arquivos também?Claro! Aqui está um modelo de `README.md` completo e bem estruturado para o seu desafio com Kali Linux, Medusa e ambientes vulneráveis:
-
----
-
-```markdown
 # 🔐 Projeto de Segurança Ofensiva com Kali Linux e Medusa
 
 Este projeto foi desenvolvido como parte do desafio da DIO para aplicar conhecimentos em segurança ofensiva, utilizando Kali Linux e a ferramenta Medusa em ambientes vulneráveis. O objetivo é simular ataques de força bruta e propor medidas de mitigação.
