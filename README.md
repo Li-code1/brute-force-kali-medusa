@@ -73,13 +73,12 @@ Este projeto foi desenvolvido como parte do desafio da DIO para aplicar conhecim
 
 ```
 .
-├── images/                  # Capturas de tela dos testes
-├── scripts/                 # Scripts auxiliares (se houver)
-├── wordlists/               # Wordlists utilizadas nos testes
+├── scripts/                 
+├── wordlists/              
 │   ├── ftp.txt
 │   ├── web.txt
 │   └── users.txt
-└── README.md                # Documentação principal
+└── README.md                
 ```
 
 ---
